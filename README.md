@@ -1,1 +1,1 @@
-Assignments for Deep Learning Course CS60010 at IIT Kharagpur
+Assignments for Deep Learning CS60010 at IIT Kharagpur
